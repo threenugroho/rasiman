@@ -1,8 +1,8 @@
 # jQuery Plugin for Listing accounts and Sharing page 
 
-* Both example: http://threenugroho.heck.in/files/social/index.html
-* For sharing example: http://tolgaergin.com/files/social/social-share.html
-* For listing social profiles: http://tolgaergin.com/files/social/social-profiles.html
+* Both example: http://threenugroho.heck.in
+* For sharing example: http://threenugroho.heck.in
+* For listing social profiles: http://threenugroho.heck.in
 
 ## Usage
 
